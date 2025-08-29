@@ -1,91 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rishikesh M</h1>
-<h3 align="center">A passionate Python developer from India 🇮🇳</h3>
+<h3 align="center">A passionate python developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishi182005&label=Profile%20views&color=0e75b6&style=flat" alt="rishi182005" />
-  <img src="https://img.shields.io/github/followers/rishi182005?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi182005&label=Profile%20views&color=0e75b6&style=flat" alt="rishi182005" /> </p>
 
----
-
-### 🧑‍💻 About Me
-- 🔭 I’m currently working on **AI/ML projects and Python automation**
-- 🌱 I’m learning **Deep Learning, Docker, and Cloud DevOps**
-- 👯 I’m looking to collaborate on **open-source Python or AI projects**
-- 💬 Ask me about **Python, APIs, OpenCV, MongoDB**
-- ⚡ Fun fact: I love making bots that automate boring stuff 🧠🤖
-
----
-
-### 🌐 Connect with me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:rishikeshm@example.com"><img src="https://img.shields.io/badge/Gmail-rishikeshm@example.com-red?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/rishikeshm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-rishikeshm-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://twitter.com/rishikeshm" target="_blank"><img src="https://img.shields.io/badge/Twitter-@rishikeshm-1DA1F2?style=flat&logo=twitter" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <!-- Add icons as needed -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishi182005&show_icons=true&locale=en&layout=compact" alt="rishi182005" /></p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishi182005&show_icons=true&theme=github_dark&hide_border=true" alt="rishi182005" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi182005&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi182005&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishi182005&theme=gruvbox&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 📅 My GitHub Activity
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rishi182005&theme=github-compact" />
-</p>
-
----
-
-### 💡 Quote of the Day
-> “The only way to do great work is to love what you do.” — *Steve Jobs*
-
----
-
-### 🧠 Did You Know?
-🦾 Python was named after *Monty Python*, not the snake!
-
----
-
-### 🙏 Support Me
-If you like my work, consider giving a ⭐ on my repositories or [Buy Me a Coffee](https://www.buymeacoffee.com/rishikeshm)!
-
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishi182005&show_icons=true&locale=en" alt="rishi182005" /></p>
