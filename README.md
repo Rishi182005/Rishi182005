@@ -1,15 +1,213 @@
-<h1 align="center">Hi 👋, I'm Rishikesh M</h1>
-<h3 align="center">A passionate python developer from India</h3>
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Rishikesh M
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi182005&label=Profile%20views&color=0e75b6&style=flat" alt="rishi182005" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+Python+developer;From+India+🇮🇳;Always+learning+new+technologies;Building+amazing+projects&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=rishi182005&label=Profile%20views&color=0e75b6&style=for-the-badge)
+  [![GitHub followers](https://img.shields.io/github/followers/rishi182005?label=Followers&style=for-the-badge&color=blue)](https://github.com/rishi182005)
+  [![GitHub Stars](https://img.shields.io/github/stars/rishi182005?label=Stars&style=for-the-badge&color=yellow)](https://github.com/rishi182005)
+  
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishi182005&show_icons=true&locale=en&layout=compact" alt="rishi182005" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishi182005&show_icons=true&locale=en" alt="rishi182005" /></p>
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Rishikesh M"
+        self.role = "Python Developer"
+        self.location = "India 🇮🇳"
+        self.languages = ["Python", "JavaScript", "Java", "C"]
+        self.current_focus = "Building scalable applications"
+        self.fun_fact = "I love turning coffee into code ☕➡️💻"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's connect and build something amazing together!")
+
+me = Developer()
+me.say_hi()
+```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+</div>
+
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+  
+### 👨‍💻 Programming Languages
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  
+### 🚀 Frameworks & Libraries
+  
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+  
+### 🗄️ Databases
+  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  
+### ☁️ Cloud & DevOps
+  
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+  
+### 🛠️ Tools & Others
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Coding Journey***&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+</div>
+
+```
+🌱 Currently learning: Advanced Machine Learning & Cloud Architecture
+🔭 Working on: Scalable Python applications
+👯 Looking to collaborate on: Open source Python projects
+💬 Ask me about: Python, Web Development, Machine Learning
+📫 How to reach me: Connect with me on social platforms below
+⚡ Fun fact: I debug with print statements and I'm proud of it! 
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rishi182005&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rishikesh's github stats" /> 
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi182005&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishi182005&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf)
+  
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=rishi182005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  
+  [![Rishikesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishi182005&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ff6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
+
+---
+
+## 🤝 Connect with me
+
+<div align="center">
+  
+### Let's collaborate and build something amazing together! 🚀
+  
+  <a href="https://github.com/rishi182005" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/rishi182005/rishi182005/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### Show some ❤️ by starring some of my repositories!
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ff6b6b&size=20&lines=Thanks+for+visiting!;Let's+build+something+awesome+together!;Happy+coding!+🚀" />
+  
+</div>
+
+---
+
+<details>
+<summary>👨‍💻 More about me</summary>
+
+- 🔭 I'm currently working on **scalable Python applications**
+- 🌱 I'm currently learning **Advanced Machine Learning & Cloud Architecture**
+- 👯 I'm looking to collaborate on **Open Source Python projects**
+- 🤝 I'm looking for help with **System Design**
+- 💬 Ask me about **Python, Machine Learning, Web Development**
+- 📫 How to reach me: **Check the social links above**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I think I'm funny but I'm probably not** 😅
+
+</details>
+
+---
+
+<div align="center">
+
+### 💖 Thank you for visiting my profile! 
+
+![Visitor Count](https://profile-counter.glitch.me/rishi182005/count.svg)
+
+</div>
