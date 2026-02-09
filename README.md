@@ -1,7 +1,7 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Rishikesh M
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+Python+developer;From+India+🇮🇳;Always+learning+new+technologies;Building+amazing+projects&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Real-Time+Systems+Engineer;Applied+Machine+Learning+Developer;Distributed+Systems+%26+Computer+Vision;Building+Scalable+Engineering+Pipelines&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
 </div>
 
 <div align="center">
