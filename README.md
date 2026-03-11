@@ -20,10 +20,10 @@
 class Developer:
     def __init__(self):
         self.name = "Rishikesh M"
-        self.role = "Python Developer"
+        self.role = "Business Analytics Student"
         self.location = "India 🇮🇳"
         self.languages = ["Python", "JavaScript", "Java", "C"]
-        self.current_focus = "Building scalable applications"
+        self.current_focus = "Data Analytics, ML & AI-driven insights"
         self.fun_fact = "I love turning coffee into code ☕➡️💻"
     
     def say_hi(self):
